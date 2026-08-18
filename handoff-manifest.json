@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "adapta-cliente-handoff/v1",
+  "phase": 1,
+  "versions": {
+    "package": "0.1.0",
+    "adapta": "0.7.0",
+    "adaptaCliente": "0.2.0"
+  },
+  "generatedAt": "2026-08-18T18:40:04.662Z",
+  "files": [
+    {
+      "path": "04_fase-atual/README.md",
+      "sha256": "57843f15414253dfbcc46b12fc0860f4aa0481fefdd8440eca68b80a3663f4cc",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/fase.md",
+      "sha256": "d62646ba9c5dc7b88c8e6fe36e5e6f00bf20259bb7399cb5bf345bc91e6534d1",
+      "classification": "fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-001-piloto-contrato-minimo.md",
+      "sha256": "79b4b98a5949dd21bfc5bb42a729a812fa985c3c0332d7b138538c79b046388f",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-002-papeis-sessao-auditoria.md",
+      "sha256": "f856f8b7d6ede9ae4e179c1e522c2f1015c931e1fc33d82d5c4494af8eb32dd7",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-003-entrada-textual-confirmada.md",
+      "sha256": "21067ff0de940592ca03a5a714b8b0268ce4d17d88421be4e1c3f30f887a8985",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-004-visao-pendencias.md",
+      "sha256": "7b14956b5d7c6167606b200c2f0ec6d8c83f0c9bb61f3f74a006a36e349673f0",
+      "classification": "spec-fase-atual"
+    }
+  ]
+}
